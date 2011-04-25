@@ -1,0 +1,5 @@
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\IPMulticasting\bin\Release\IPMulticasting.exe
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\IPMulticasting\bin\Release\IPMulticasting.pdb
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\IPMulticasting\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\IPMulticasting\obj\x86\Release\IPMulticasting.exe
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\IPMulticasting\obj\x86\Release\IPMulticasting.pdb
