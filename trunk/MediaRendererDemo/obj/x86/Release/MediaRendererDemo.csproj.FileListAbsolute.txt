@@ -1,0 +1,5 @@
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\MediaRendererDemo\bin\Release\MediaRendererDemo.exe
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\MediaRendererDemo\bin\Release\MediaRendererDemo.pdb
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\MediaRendererDemo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\MediaRendererDemo\obj\x86\Release\MediaRendererDemo.exe
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\MediaRendererDemo\obj\x86\Release\MediaRendererDemo.pdb

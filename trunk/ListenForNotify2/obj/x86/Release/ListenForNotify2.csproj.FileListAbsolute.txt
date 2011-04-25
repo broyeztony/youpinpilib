@@ -1,0 +1,10 @@
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\ListenForNotify2\bin\Release\ListenForNotify2.exe
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\ListenForNotify2\bin\Release\ListenForNotify2.pdb
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\ListenForNotify2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\ListenForNotify2\obj\x86\Release\ListenForNotify2.exe
+C:\Users\Tony\Downloads\csharpfr_REQUETE-HTTP-TYPE-GET-POST-CSHARP___Page\ConsoleApplication1\ListenForNotify2\obj\x86\Release\ListenForNotify2.pdb
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\ListenForNotify2\obj\x86\Release\ListenForNotify2.exe
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\ListenForNotify2\obj\x86\Release\ListenForNotify2.pdb
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\ListenForNotify2\bin\Release\ListenForNotify2.exe
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\ListenForNotify2\bin\Release\ListenForNotify2.pdb
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\ListenForNotify2\obj\x86\Release\ResolveAssemblyReference.cache
