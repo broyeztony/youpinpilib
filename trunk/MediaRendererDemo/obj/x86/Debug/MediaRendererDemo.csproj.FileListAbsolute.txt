@@ -1,0 +1,5 @@
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\MediaRendererDemo\bin\Debug\MediaRendererDemo.exe
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\MediaRendererDemo\bin\Debug\MediaRendererDemo.pdb
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\MediaRendererDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\MediaRendererDemo\obj\x86\Debug\MediaRendererDemo.exe
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\MediaRendererDemo\obj\x86\Debug\MediaRendererDemo.pdb

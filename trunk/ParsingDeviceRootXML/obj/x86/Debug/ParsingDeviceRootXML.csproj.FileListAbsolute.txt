@@ -1,0 +1,5 @@
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\ParsingDeviceRootXML\bin\Debug\ParsingDeviceRootXML.exe
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\ParsingDeviceRootXML\bin\Debug\ParsingDeviceRootXML.pdb
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\ParsingDeviceRootXML\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\ParsingDeviceRootXML\obj\x86\Debug\ParsingDeviceRootXML.exe
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\ParsingDeviceRootXML\obj\x86\Debug\ParsingDeviceRootXML.pdb

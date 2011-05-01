@@ -3,3 +3,8 @@ C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\IPMulticasting\bin\De
 C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\IPMulticasting\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\IPMulticasting\obj\x86\Debug\IPMulticasting.exe
 C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\IPMulticasting\obj\x86\Debug\IPMulticasting.pdb
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\IPMulticasting\bin\Debug\IPMulticasting.exe
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\IPMulticasting\bin\Debug\IPMulticasting.pdb
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\IPMulticasting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\IPMulticasting\obj\x86\Debug\IPMulticasting.exe
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\IPMulticasting\obj\x86\Debug\IPMulticasting.pdb

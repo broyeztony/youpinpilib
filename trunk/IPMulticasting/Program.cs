@@ -94,7 +94,8 @@ namespace IPMulticasting
         {
             sockListen = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
 
-            sockListen.SetSocketOption(SocketOptionLevel.Socket,SocketOptionName.ReuseAddress, 1);
+            sockListen.SetSocketOption(SocketOptionLevel.Socket,SocketOptionName.ReuseAddress, 1); // To be able to bind on 
+                                                                                                   // the same port concurrently with another application
             sockListen.ExclusiveAddressUse = false;
             
             IPAddress ip = IPAddress.Parse("239.255.255.250");
@@ -179,7 +180,7 @@ namespace IPMulticasting
                     continue;
                 }
 
-                bool exist = SearchMessage(usn, server, location);
+                bool exist = SearchMessage(location);
 
                 if (!exist)
                 {
@@ -266,11 +267,11 @@ namespace IPMulticasting
 
 
 
-        Boolean SearchMessage(String pUSN, String pServer, String pLocation)
+        Boolean SearchMessage(String pLocation)
         {
             foreach (NotifyMessageVO m in messages)
             {
-                if (m.usn.Equals(pUSN) && m.server.Equals(pServer) && m.location.Equals(pLocation))
+                if (m.location.Equals(pLocation))
                 {
                     return true;
                 }
