@@ -3,3 +3,8 @@ C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\HttpServer80\bin\Debu
 C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\HttpServer80\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\HttpServer80\obj\x86\Debug\HttpServer80.exe
 C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\HttpServer80\obj\x86\Debug\HttpServer80.pdb
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\HttpServer80\bin\Debug\HttpServer80.exe
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\HttpServer80\bin\Debug\HttpServer80.pdb
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\HttpServer80\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\HttpServer80\obj\x86\Debug\HttpServer80.exe
+C:\Users\Tony\Documents\Perso\VAE\memoire\Control Point C#\youpinpilib\HttpServer80\obj\x86\Debug\HttpServer80.pdb
