@@ -245,7 +245,7 @@ namespace IPMulticasting
             // packet += "SUBSCRIBE http://localhost:42100/upnp/event/content_directory HTTP/1.1\r\n";
             packet += "SUBSCRIBE http://localhost:42100/upnp/event/connection_manager HTTP/1.1\r\n";
             packet += "HOST: localhost:42100\r\n";
-            packet += "CALLBACK: <http://localhost:8000/>\r\n";
+            packet += "CALLBACK: <http://localhost:8080/>\r\n";
             packet += "NT: upnp:event\r\n";
             packet += "TIMEOUT: Second-" + "6000" + "\r\n" + "\r\n";
 
